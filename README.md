@@ -5,7 +5,7 @@ This project demonstrates core Rust programming concepts through a file processi
 
 My goal was to deepen my understanding of systems programming concepts by implementing a practical tool that highlights Rust's unique features like zero-cost abstractions and thread-safe memory management without garbage collection.
 
-[Software Demo Video](https://your-video-link-here.com) *(to be added after recording)*
+[Software Demo Video](https://youtu.be/wI--jcMy1T8)
 
 ## Development Environment
 - **IDE**: Visual Studio Code with Rust Analyzer extension
